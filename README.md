@@ -12,14 +12,14 @@
 - ✨ I’m currently working on different Coding Challenges
 - 🌱 I’m currently learning FrontEnd Development
 - ✨ I’m looking to collaborate on open source projects
-- 🚀 How to reach me: wm8821730@gmail.com
+- 🚀 How to reach me: ameragamal425@gmail.com
 
 
-I have great experience of building user-friendly dynamic & responsive web applications. With my extensive understanding in JavaScript, Reactjs, NodeJS, MongoDB other programming languages such as C++ , java and python I have put great contribution in different projects.
+I have great experience of building user-friendly dynamic & responsive web applications. With my extensive understanding in JavaScript, Reactjs, NodeJS, MongoDB other programming languages such as C++ I have put great contribution in different projects.
 
 ### Connect with me:
 <p align="center">
-  <a href="https://www.linkedin.com/in/wessam-mohamed-12bb95251/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" style="vertical-align:center" /></a>
+  <a href="https://www.linkedin.com/in/amira-gamal-74a2a4333/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" style="vertical-align:center" /></a>
  <a href="https://flowcv.com/resume/848vk2ouie" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://flowcv.com/resume/848vk2ouie" target="_blank"><img alt="" src="https://img.shields.io/badge/resume-E4405F?logo=vercel&logoColor=white&style=for-the-badge" style="vertical-align:center" /></a></p>
 
@@ -48,7 +48,6 @@ JS Tools
 
 Other Tools
 
-![](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
 ![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![]()
 
@@ -56,20 +55,12 @@ CSS Framework/Libraries/Pre-processors
 
 ![](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)
-![](https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white)
 ![]()
 
-
-Design/Visual Tools
-
-![](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
-![](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white)
-![](https://img.shields.io/badge/Adobe%20illustrator-CC6699.svg?style=for-the-badge&logo=Adobe-illustrator&logoColor=white)
 
 Database/State
 
 ![](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
-![](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 
 ![]()
@@ -96,8 +87,6 @@ Version Control
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) 
-![Git Lab](https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white)
-
 
 
 
